@@ -8,6 +8,7 @@
 Run the dev server:
 
 ```sh
+npm install
 npm run dev
 ```
 
